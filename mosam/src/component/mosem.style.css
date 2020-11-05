@@ -1,0 +1,11 @@
+#mainDiv{
+    padding-bottom: 20px;
+}
+
+.cards{
+    width: 40%;
+    background-color: white;
+    opacity: 0.6;
+    margin: 0 auto;
+    
+}

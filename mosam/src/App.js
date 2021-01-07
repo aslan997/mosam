@@ -19,7 +19,8 @@ class App extends React.Component{
       temp_max:undefined,
       temp_min:undefined,
       description:"",
-      error:false
+      error:false,
+      error_1:true
     };
 
     this.icon={
